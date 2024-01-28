@@ -1,4 +1,4 @@
-### Hi there 👋
+### Bonjour ! 👋
 
 I am Syméon De Almeida, currently studying computer science at the [Southern Cross University](https://www.scu.edu.au). I am a Full-Stack JavaScript developer and love writing clean and maintainable code. Find out more about me & feel free to connect with me here:
 
@@ -19,6 +19,7 @@ I am Syméon De Almeida, currently studying computer science at the [Southern Cr
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
+![Docker](https://img.shields.io/badge/-Docker-FCA121?style=flat-square&logo=docker)
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=symeond&show_icons=true&theme=transparent)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=symeond&hide=TeX&layout=compact)
