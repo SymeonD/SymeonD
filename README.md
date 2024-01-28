@@ -24,7 +24,7 @@ I am Syméon De Almeida, currently studying computer science at the [Southern Cr
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
-![Figma](https://img.shields.io/badge/-Figma-FCA121?style=flat-square&logo=figma)
+![Figma](https://img.shields.io/badge/-Figma-black?style=flat-square&logo=figma)
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=symeond&show_icons=true&theme=transparent)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=symeond&hide=TeX&layout=compact)
