@@ -1,6 +1,6 @@
 ### Bonjour ! 👋
 
-I am Syméon De Almeida, currently studying computer science at the [Southern Cross University](https://www.scu.edu.au). I am a Full-Stack JavaScript developer and love writing clean and maintainable code. Find out more about me & feel free to connect with me here:
+I am Syméon De Almeida, just graduated computer science at the [Southern Cross University](https://www.scu.edu.au). I am a Full-Stack JavaScript developer and love writing clean and maintainable code. Find out more about me & feel free to connect with me here:
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/syméon-de-almeida-b0350923a/)
 [![Gmail Badge](https://img.shields.io/badge/-symeon.dealmeida@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:symeon.dealmeida@gmail.com)](mailto:symeon.dealmeida@gmail.com)
