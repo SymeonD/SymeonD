@@ -1,19 +1,25 @@
-## Bonjour ! 👋
+## Syméon De Almeida — Développeur Full-Stack 🌏
 
-Diplômé en développement logiciel, j’ai acquis une expérience en développement full-stack à travers des projets personnels et professionnels en développement et design. Curieux et rigoureux, je souhaite aujourd’hui mettre mes compétences au service de projets innovants. 
-Disponible immédiatement, je suis motivé à contribuer au développement de vos projets, contactez moi ici:
+Développeur full-stack basé à Bordeaux, avec une expérience construite 
+entre la France et l'Australie — stages en startup tech, 18 mois de 
+freelance, et projets perso. J'aime travailler sur l'ensemble d'un projet : 
+du design Figma au déploiement AWS, en passant par l'archi back-end.
 
-[![Linkedin_Badge](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/symeon-de-almeida)
-[![Gmail_Badge](https://skillicons.dev/icons?i=gmail)](mailto:symeon.dealmeida@gmail.com)
+Disponible immédiatement • Ouvert aux missions & opportunités
 
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/symeon-de-almeida)
+[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:symeon.dealmeida@gmail.com)
 
-## ⚡ Technologies
+---
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,react,angular,nodejs,express,html,css,bootstrap,php,mysql,postgresql,docker,py,django,java,cpp,c,dotnet,flutter,aws,github,arduino,unity,wordpress,androidstudio,notion,figma)](https://skillicons.dev)
+## ⚡ Stack
 
-## 🎭 Projets hors github
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,angular,
+nodejs,express,py,django,flutter,postgresql,docker,aws,figma,linux)](https://skillicons.dev)
 
-[🎴 Izou Playground, site e-commerce de créateur](https://www.izou-playground.com)
+---
 
-[💍 (Les Mains Bleues, site e-commerce de créateur](https://lesmainsbleuesbijoux.com)
+## 🌐 Sites réalisés en freelance
 
+[🛍️ Izou Playground — e-commerce créateur](https://www.izou-playground.com)
+[💍 Les Mains Bleues — e-commerce bijoux](https://lesmainsbleuesbijoux.com)
