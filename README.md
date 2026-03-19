@@ -14,12 +14,12 @@ Disponible immédiatement • Ouvert aux missions & opportunités
 
 ## ⚡ Stack
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,react,angular,
-nodejs,express,py,django,flutter,postgresql,docker,aws,figma,linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,angular,nodejs,express,postgresql,docker,py,django,java,flutter,aws,github,wordpress,notion,figma)](https://skillicons.dev)
 
 ---
 
 ## 🌐 Sites réalisés en freelance
 
 [🛍️ Izou Playground — e-commerce créateur](https://www.izou-playground.com)
+
 [💍 Les Mains Bleues — e-commerce bijoux](https://lesmainsbleuesbijoux.com)
