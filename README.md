@@ -1,9 +1,6 @@
-## Syméon De Almeida — Développeur Full-Stack 🌏
+## Syméon De Almeida — Développeur DevOps & Full-Stack 🌏
 
-Développeur full-stack basé à Bordeaux, avec une expérience construite 
-entre la France et l'Australie — stages en startup tech, 18 mois de 
-freelance, et projets perso. J'aime travailler sur l'ensemble d'un projet : 
-du design Figma au déploiement AWS, en passant par l'archi back-end.
+Développeur basé à Bordeaux. 2 ans de freelance full-stack en Australie, et une pratique DevOps active sur homelab : Ansible, K3s, Traefik, Prometheus/Grafana, Restic. J'aime comprendre et maîtriser toute la chaîne du code à l'infra.
 
 Disponible immédiatement • Ouvert aux missions & opportunités
 
